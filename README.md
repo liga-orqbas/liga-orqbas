@@ -6,7 +6,9 @@ Navigating the complexities of psychosis requires a deep understanding of the mi
 ## Education
 
 Rīgas Tehniskā universitāte (Riga Technical University)
+
 Computer systems (Masters), Information techology. Batchlors - Computer Science 
+
 2020 - 2023
 
 <!--
